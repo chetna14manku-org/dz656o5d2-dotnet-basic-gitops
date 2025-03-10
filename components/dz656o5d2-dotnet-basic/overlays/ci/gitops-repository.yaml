@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dz656o5d2-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/chetna14manku-org/dz656o5d2-dotnet-basic-gitops
