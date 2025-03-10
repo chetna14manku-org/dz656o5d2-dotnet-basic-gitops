@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/rhtap-qe-dotnet-basic:github-10f30741a3cf7cd24ced897c1fbbd16e8ef5426f
+        - image: quay.io/chetna14manku_org/rhtap-qe-dotnet-basic:github-c399cc5d65c44e90d79e810f79ab1c63752ddc1d
           name: container-image
